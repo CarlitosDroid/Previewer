@@ -4,9 +4,6 @@
   <a href="https://github.com/PagoEfectivo">
     <img src="assets/demo.jpg" alt="Orbis Mobile Developers" width="25%"></a>
   </a>
-  <br>
-  PagoEfectivo's SDK
-  <br>
 </h1>
 
 <h4 align="center">This is the official PagoEfectivo SDK for PagoEfectivo's Platform.</h4>
