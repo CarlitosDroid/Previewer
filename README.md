@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-El SDK de PagoEfectivo le permitirá implementar de forma rápida y sencilla las funcionalidades que ofrece para realizar transacciones online a través de la plataforma de PagoEfectivo para iOS.
+El SDK de PagoEfectivo le permitirá implementar de forma rápida y sencilla las funcionalidades que ofrece para realizar transacciones online a través de la plataforma de PagoEfectivo para Android.
 
   # Como lo instalo?
   ---
@@ -24,7 +24,7 @@ El SDK de PagoEfectivo le permitirá implementar de forma rápida y sencilla las
  
   # Ejemplos
   ---
-  Se desarrolló 3 ejemplos con la implementación del SDK, en Swift 3 , Swift 4 y Objective-C, y los puedes encontrar en los siguientes links:
+  Se desarrolló 2 ejemplos con la implementación del SDK, en Java y Kotlin, y los puedes encontrar en los siguientes links:
   - [Java-Android](https://github.com/PagoEfectivo/sdk-pe-android-java-example.git)
   - [Kotlin-Android](https://github.com/PagoEfectivo/sdk-pe-android-kotlin-example.git)
  
