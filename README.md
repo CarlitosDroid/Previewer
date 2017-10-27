@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://github.com/PagoEfectivo">
-    <img src="assets/demo.jpg" alt="Orbis Mobile Developers" width="25%"></a>
+    <img src="assets/pagoefectivo.jpg" alt="Orbis Mobile Developers" width="25%"></a>
   </a>
 </h1>
 
