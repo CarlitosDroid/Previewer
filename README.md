@@ -17,6 +17,7 @@ El SDK de PagoEfectivo le permitirá implementar de forma rápida y sencilla las
   # Documentación
   ---
   La instalación, implementación y uso del SDK se encuentra en el siguiente link:
+  
   [https://PagoEfectivo.github.io/sdk-pe-ios-documentation](https://PagoEfectivo.github.io/sdk-pe-ios-documentation)
  
  
