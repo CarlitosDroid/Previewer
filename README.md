@@ -6,8 +6,6 @@
   </a>
 </h1>
 
-<h4 align="center">This is the official PagoEfectivo SDK for PagoEfectivo's Platform.</h4>
-
 El SDK de PagoEfectivo le permitirá implementar de forma rápida y sencilla las funcionalidades que ofrece para realizar transacciones online a través de la plataforma de PagoEfectivo para iOS.
 
 ## How do I install it?
