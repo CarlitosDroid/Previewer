@@ -9,6 +9,7 @@
 El SDK de PagoEfectivo le permitirá implementar de forma rápida y sencilla las funcionalidades que ofrece para realizar transacciones online a través de la plataforma de PagoEfectivo para iOS.
 
   # How do I install it?
+  ---
 
        clone repository
        https://github.com/PagoEfectivo/sdk-pe-android.git
