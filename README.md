@@ -12,7 +12,7 @@ El SDK1 de PagoEfectivo le permitirá implementar de forma rápida y sencilla la
   ---
   La instalación, implementación y uso del SDK se encuentra en el siguiente link:
   
-  [https://PagoEfectivo.github.io/sdk-pe-ios-documentation](https://PagoEfectivo.github.io/sdk-pe-ios-documentation)
+  [https://PagoEfectivo.github.io/sdk-pe-android-documentation](https://PagoEfectivo.github.io/sdk-pe-android-documentation)
  
   # Ejemplos
   ---
