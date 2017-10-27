@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-El SDK de PagoEfectivo le permitirá implementar de forma rápida y sencilla las funcionalidades que ofrece para realizar transacciones online a través de la plataforma de PagoEfectivo para Android.
+El SDK1 de PagoEfectivo le permitirá implementar de forma rápida y sencilla las funcionalidades que ofrece para realizar transacciones online a través de la plataforma de PagoEfectivo para Android.
 
   # Documentación
   ---
