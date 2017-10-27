@@ -14,11 +14,16 @@
 ## How do I install it?
 
        clone repository
-       https://github.com/mercadolibre/php-sdk.git
+       https://github.com/PagoEfectivo/sdk-pe-android.git
        
  ## Examples
  
- Trabajando en los [ejamples](https://github.com/PagoEfectivo)
+ Trabajando en los [ejamples](https://github.com/PagoEfectivo/sdk-pe-android-kotlin-example.git)
+ 
+ 
+ ## Examples
+  
+  Trabajando en los [ejamples](https://github.com/PagoEfectivo/sdk-pe-android-java-example.git)
  
  ## Community
  
