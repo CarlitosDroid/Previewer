@@ -12,9 +12,7 @@ El SDK de PagoEfectivo le permitirá implementar de forma rápida y sencilla las
 
        clone repository
        https://github.com/PagoEfectivo/sdk-pe-android.git
-       
- ## Examples
- 
+        
   # Documentación
   ---
   La instalación, implementación y uso del SDK se encuentra en el siguiente link:
