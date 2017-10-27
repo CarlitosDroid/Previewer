@@ -20,9 +20,6 @@ El SDK de PagoEfectivo le permitirá implementar de forma rápida y sencilla las
   
   [https://PagoEfectivo.github.io/sdk-pe-ios-documentation](https://PagoEfectivo.github.io/sdk-pe-ios-documentation)
  
- 
-  Trabajando en los [ejamples](https://github.com/PagoEfectivo/sdk-pe-android-kotlin-example.git)
- 
   # Ejemplos
   ---
   Se desarrolló 2 ejemplos con la implementación del SDK, en Java y Kotlin, y los puedes encontrar en los siguientes links:
